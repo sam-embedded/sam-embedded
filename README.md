@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sam 👋
 
-<!--
-**sam-embedded/sam-embedded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer | Embedded Systems Engineer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 Currently Building
+- TinyBrain (Modular AI Framework)
+- TinyBrain ASR
+- TinyBrain TTS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- C/C++
+- Java
+- Python
+- Linux
+- Android
+- Embedded Systems
+- AI/ML
+
+## 🌱 Learning
+- Edge AI
+- Speech Recognition
+- Text-to-Speech
+- Neural Network Architectures
+
+Thanks for visiting my profile!
